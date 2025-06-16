@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!--App Theme Colors-->
+    <color name="colorPrimary">#030714</color>
+    <color name="colorPrimaryDark">#050505</color>
+    <color name="colorAccent">@color/pink</color>
+    <color name="color_shimmer">#1B1B1B</color>
+
+    <!--App Background Colors-->
+    <color name="bg_color">#000000</color>
+    <color name="btn_color">#1A1A1A</color>
+    <color name="current_plan_color">#545454</color>
+    <color name="unselect_plan">#70FFFFFF</color>
+    <color name="unselect_plan_card">#1A1A1A</color>
+
+    <!--Background plan unselected color-->
+    <color name="color_primary_blur">#90252836</color>
+
+    <!--Intro Indicator Color-->
+    <color name="selected">#bf1e2d</color>
+
+    <!--Background color of Common Dialog-->
+    <color name="dialog_bg_color">#181818</color>
+    <color name="black_shadow">#604F4E4E</color>
+    <!--Hint color of Search-->
+    <color name="hintTextColor">#919191</color>
+    <color name="color_black">#000000</color>
+    <!--dashboard menu selected unselected color-->
+    <color name="wheel_unactive_color">#545454</color>
+    <color name="gray_454545">#454545</color>
+    <color name="gray_545454">#545454</color>
+    <color name="gray_363636">#363636</color>
+    <color name="dash_item_text_color">#FFFFFF</color>
+    <color name="heading_text_color">#95FFFFFF</color>
+    <color name="dash_activeItem_text_color">#FAFAFA</color>
+    <color name="dash_menu_back">?attr/customAccentColor</color>
+    <color name="color_equalizer">#F9AA31</color>
+    <!--Video Speed TextColor-->
+    <color name="color_speed">#FF018786</color>
+    <color name="btn_view_all_color">#90C4C4C4</color>
+    <color name="nav_item_color">#FFFFFF</color>
+    <color name="app_red_color">#c52127</color>
+    <color name="color_red_btn">#FF3333</color>
+    <color name="color_ripple">#20B5B5B5</color>
+    <color name="color_bottom_bar">@color/colorPrimary</color>
+
+
+
+    <!--Chat Background -->
+    <color name="color_admin_chat">#DCF8C6</color>
+
+    <!--editText Border stroke color-->
+    <color name="et_stroke_color">#252836</color>
+    <color name="color_select_plan">@color/app_blue</color>
+    <color name="color_current_plan">#B5B5B5</color>
+
+    <!--Common Colors -->
+    <color name="white">#FFFFFF</color>
+    <color name="white_off">#97FFFFFF</color>
+    <color name="white_second">#50FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="black_trans">#80000000</color>
+    <color name="transparent">#00ffffff</color>
+    <color name="greenColor">#22A802</color>
+    <color name="redColor">#bf1e2d</color>
+    <color name="red_FF0000">#FF0000</color>
+    <color name="red_330000">#330000</color>
+    <color name="color_red_blur">#30bf1e2d</color>
+
+    <!--Edit Text Tint color-->
+    <color name="edit_text_color">#FFFFFF</color>
+    <color name="edit_hintText_color">#FFFFFF</color>
+
+    <!--Text colors -->
+    <color name="text_color_2">#757575</color>
+    <color name="text_color_4">#b0b0b0</color>
+
+
+    <!--Upgrade Plane Background color-->
+    <color name="calenderBgColor">#bed1cfcf</color>
+
+    <color name="cast_layout_bg">#121234</color>
+    <!--Layout Animation color-->
+    <color name="fall">#a7948c1e</color>
+    <color name="bg_btn_color">@color/white_second</color>
+
+    <color name="qr_code_white">#FFFFFFFF</color>
+    <color name="qr_code_flashlight_bg">#66000000</color>
+    <color name="qr_code_finder_mask">#80000000</color>
+    <color name="qr_code_flash_light_text_color">#66FFFFFF</color>
+    <color name="qr_code_finder_frame">#FFFFFFFF</color>
+    <color name="qr_code_finder_laser">#25f705</color>
+    <color name="pb_text_gray">#999999</color>
+    <color name="dark_gray">#1E1E1E</color>
+    <color name="app_blue_color_blur">#2623C0</color>
+
+    <color name="color_drawable_bg">#B5B5B5</color>
+    <color name="color_image_cover">#121212</color>
+    <color name="image_bg">#80121212</color>
+    <color name="bg_color_card">@color/colorPrimary</color>
+    <color name="tab_icon_color">#FFFFFF</color>
+    <color name="color_user_chat">#B5B5B5</color>
+    <color name="color_white">#FFFFFF</color>
+    <color name="color_divider">#000000</color>
+    <color name="color_nav_divider">#20FFFFFF</color>
+    <color name="divider">#EAEAEA</color>
+    <color name="blue_4845F6">#4845F6</color>
+<!--    <color name="app_blue">#5588FF</color>-->
+    <color name="app_blue">#FF742A</color>
+    <color name="pink">#EC008C</color>
+<!--    <color name="blue_312E7A">#312E7A</color>-->
+    <color name="button_disable_gray">#484848</color>
+    <color name="button_disable">#0E1653</color>
+    <color name="banner_dot_gray">#3D3C3C</color>
+    <color name="dialog_negative_btn_color">#242424</color>
+    <color name="gray_171717">#171717</color>
+    <color name="gray_898989">#898989</color>
+    <color name="view_gray">#282828</color>
+    <color name="toolbar_gray">#272727</color>
+<!--    <color name="card_light_bg">#222222</color>-->
+    <color name="card_light_bg">#0E1653</color>
+    <color name="blue_0E1653">#0E1653</color>
+    <color name="gray_F2222222">#F2222222</color>
+    <color name="bg_audio_player_color">#252525</color>
+    <color name="btn_text_gray_color">#8A8A8A</color>
+    <color name="gray_2F2F2F">#2F2F2F</color>
+    <color name="gray_232325">#232325</color>
+    <color name="gray_585757">#585757</color>
+    <color name="gray_d0d0d0">#D0D0D0</color>
+    <color name="gray_585858">#585858</color>
+    <color name="gray_403F3F">#403F3F</color>
+    <color name="gray_7F7F7F">#7F7F7F</color>
+    <color name="ripple_color">#40FFFFFF</color>
+    <color name="gray_484848">#484848</color>
+    <color name="gray_808080">#808080</color>
+    <color name="gray_2B2B2B">#2B2B2B</color>
+    <color name="header_color">#393939</color>
+    <color name="yellow_color">#D4A220</color>
+    <color name="switch_track_color">#80FFFFFF</color>
+    <color name="switch_btn_color">@color/white</color>
+    <color name="gray_0e0e31">#0E0E31</color>
+    <color name="blurview_783d3c55">#783D3C55</color>
+    <color name="error_red">#FF0000</color>
+    <color name="color_979797">#979797</color>
+
+    <color name="blur_btn_text">#FFFFFF</color>
+    <color name="color_7FFF742A">#7FFF742A</color>
+    <color name="color_bottom_indicator">#FF671F</color>
+    <color name="gray_919192">#919192</color>
+    <color name="white_20_opacity">#33FFFFFF</color>
+    <color name="white_15_opacity">#26FFFFFF</color>
+    <color name="white_90_opacity">#E6FFFFFF</color>
+    <color name="gray_393939">#393939</color>
+    <color name="gray_838282">#838282</color>
+    <color name="gray_050505">#050505</color>
+    <color name="white_cccccc">#cccccc</color>
+    <color name="default_color">#323232</color>
+    <color name="default_color_dark">#222222</color>
+    <color name="white_F9E2E2">#F9E2E2</color>
+    <color name="light_gray_a9a9a9">#a9a9a9</color>
+
+    <color name="song_row_favorite_color">#FF6E40</color>
+    <color name="gray_C0C0C0">#C0C0C0</color>
+    <color name="gray_64222222">#74222222</color>
+    <color name="gray_777777">#777777</color>
+    <color name="gray_5B5B5B">#5B5B5B</color>
+    <color name="gray_trans">#70000000</color>
+    <color name="blue_303EF9">#303EF9</color>
+    <color name="red_D51515">#D51515</color>
+    <color name="red_2B0404">#2B0404</color>
+<!--    <color name="blue_484D9F">#484D9F</color>-->
+<!--    <color name="blue_1C2490">#1C2490</color>-->
+
+    <color name="exo_bottom_bar_background" tools:override="true" >@android:color/transparent</color>
+    <color name="exo_black_opacity_60" tools:override="true" >@android:color/transparent</color>
+
+    <color name="lang_selected">#46004F</color>
+    <color name="color_CDCDCD">#CDCDCD</color>
+    <color name="blue_000037">#000037</color>
+    <color name="blue_00004E">#00004E</color>
+    <color name="black_040505">#040505</color>
+    <color name="white_B1B1C1">#B1B1C1</color>
+</resources>
